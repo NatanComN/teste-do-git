@@ -1,0 +1,14 @@
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\bin\Debug\net8.0\ConsoleAppDoGit.exe
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\bin\Debug\net8.0\ConsoleAppDoGit.deps.json
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\bin\Debug\net8.0\ConsoleAppDoGit.runtimeconfig.json
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\bin\Debug\net8.0\ConsoleAppDoGit.dll
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\bin\Debug\net8.0\ConsoleAppDoGit.pdb
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\obj\Debug\net8.0\ConsoleAppDoGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\obj\Debug\net8.0\ConsoleAppDoGit.AssemblyInfoInputs.cache
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\obj\Debug\net8.0\ConsoleAppDoGit.AssemblyInfo.cs
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\obj\Debug\net8.0\ConsoleAppDoGit.csproj.CoreCompileInputs.cache
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\obj\Debug\net8.0\ConsoleAppDoGit.dll
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\obj\Debug\net8.0\refint\ConsoleAppDoGit.dll
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\obj\Debug\net8.0\ConsoleAppDoGit.pdb
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\obj\Debug\net8.0\ConsoleAppDoGit.genruntimeconfig.cache
+C:\Users\NATAN\Programacao\Codigos\Apps\C#\TestedoGit\ConsoleAppDoGit\obj\Debug\net8.0\ref\ConsoleAppDoGit.dll
